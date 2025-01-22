@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "485834652845",
+    "project_id": "art-gallery-58f26",
+    "storage_bucket": "art-gallery-58f26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485834652845:android:03ae72a5876007fd315a24",
+        "android_client_info": {
+          "package_name": "art.company.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpzbUXSZg89r3p18ZdJUJ7xJxMzHdkTdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485834652845:android:8b4fc71c8a394ac5315a24",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpzbUXSZg89r3p18ZdJUJ7xJxMzHdkTdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485834652845:android:b6fdbdff1fa7d15f315a24",
+        "android_client_info": {
+          "package_name": "com.example.gallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpzbUXSZg89r3p18ZdJUJ7xJxMzHdkTdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
